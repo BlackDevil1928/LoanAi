@@ -1,4 +1,4 @@
-# LoanAI - AI-Powered Loan Sales Assistant
+# LoanAI💵 - AI-Powered Loan Sales Assistant
 
 ## Project Overview
 
