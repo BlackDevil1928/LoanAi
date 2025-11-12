@@ -4,7 +4,7 @@
 
 LoanAI is an innovative AI-powered sales assistant designed for Non-Banking Financial Companies (NBFCs). This solution addresses the Tata Capital problem statement by providing an automated multi-agent system for loan processing.
 
-## Features
+## Features 
 
 - **Multi-Agent AI System**: Four specialized AI agents work together to process loan applications
 - **Instant Processing**: From application to sanction in minutes
