@@ -13,7 +13,7 @@ LoanAI is an innovative AI-powered sales assistant designed for Non-Banking Fina
 - **Automated Sanction**: Immediate loan sanction generation
 - **Dashboard**: Admin interface for monitoring applications
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 This project is built with:
 
